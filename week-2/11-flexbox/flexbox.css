@@ -1,5 +1,5 @@
 /* Add your own CSS code below */
-.countries--first,
+/*.countries--first,
 .countries--second,
 .countries--third {
   display: flex;
@@ -15,4 +15,4 @@
 
 .countries--third {
   flex-direction: column-reverse;
-}
+}*/
